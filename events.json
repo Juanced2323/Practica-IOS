@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Regata Internacional",
+        "description": "Evento de regata internacional con más de 50 competidores.",
+        "date": "2025-01-20",
+        "category": "Competición",
+        "location": "Motril, Granada",
+        "imageUrl": "https://example.com/image1.jpg",
+        "status": "Pendiente"
+    },
+    {
+        "id": 2,
+        "name": "Taller de Vela Ligera",
+        "description": "Aprende los fundamentos básicos de la vela ligera.",
+        "date": "2025-02-10",
+        "category": "Taller",
+        "location": "Málaga",
+        "imageUrl": "https://example.com/image2.jpg",
+        "status": "Pendiente"
+    }
+]
