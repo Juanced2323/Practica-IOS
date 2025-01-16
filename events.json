@@ -5,8 +5,7 @@
         "description": "Evento de regata internacional con más de 50 competidores.",
         "date": "2025-01-20",
         "category": "Competición",
-        "location": "Motril, Granada",
-        "imageUrl": "https://example.com/image1.jpg",
+        "location": "Motril, Granada",        
         "status": "Pendiente"
     },
     {
@@ -16,7 +15,6 @@
         "date": "2025-02-10",
         "category": "Taller",
         "location": "Málaga",
-        "imageUrl": "https://example.com/image2.jpg",
         "status": "Pendiente"
     }
 ]
