@@ -6,7 +6,8 @@
         "date": "2025-01-20",
         "category": "Competición",
         "location": "Motril, Granada",        
-        "status": "Pendiente"
+        "status": "Pendiente",
+        "isFavorite": false
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "date": "2025-02-10",
         "category": "Taller",
         "location": "Málaga",
-        "status": "Pendiente"
+        "status": "Pendiente",
+        "isFavorite": false
     },
     {
         "id": 3,
@@ -24,6 +26,7 @@
         "date": "2025-02-10",
         "category": "Competición",
         "location": "Club Nautico Motril",
-        "status": "Pendiente"
+        "status": "Pendiente",
+        "isFavorite": false
     }
 ]
