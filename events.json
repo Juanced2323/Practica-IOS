@@ -16,14 +16,5 @@
         "category": "Taller",
         "location": "Málaga",
         "status": "Pendiente"
-    },
-    {
-        "id": 3,
-        "name": "Regata Internacional Dinghi Mx",
-        "description": "Clasificatorio a los JJOO Los Ángeles 2028",
-        "date": "2025-02-10",
-        "category": "Competición",
-        "location": "Club Nautico Motril",
-        "status": "Pendiente"
     }
 ]
