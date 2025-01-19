@@ -7,7 +7,7 @@
         "category": "Competición",
         "location": "Motril, Granada",        
         "status": "Pendiente",
-        "isFavorite": "False"
+        "isFavorite": "False" 
     },
     {
         "id": 2,
@@ -128,5 +128,5 @@
         "status": "Pendiente",
         "isFavorite": "False"
     }
-]
+
 ]
