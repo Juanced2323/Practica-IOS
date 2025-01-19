@@ -28,5 +28,105 @@
         "location": "Club Nautico Motril",
         "status": "Pendiente",
         "isFavorite": "False"
+    },{
+        "id": 4,
+        "name": "Campeonato Nacional de Catamaranes",
+        "description": "Competencia nacional de catamaranes con participantes de todo el país.",
+        "date": "2025-03-15",
+        "category": "Competición",
+        "location": "Valencia",
+        "status": "Pendiente",
+        "isFavorite": "False"
+    },
+    {
+        "id": 5,
+        "name": "Curso de Maniobras en Viento Fuerte",
+        "description": "Entrenamiento práctico para mejorar maniobras en condiciones de viento extremo.",
+        "date": "2025-04-05",
+        "category": "Taller",
+        "location": "Tarifa, Cádiz",
+        "status": "Pendiente",
+        "isFavorite": "False"
+    },
+    {
+        "id": 6,
+        "name": "Regata Juvenil de Optimist",
+        "description": "Competición dirigida a jóvenes promesas de la vela.",
+        "date": "2025-04-25",
+        "category": "Competición",
+        "location": "Santander",
+        "status": "Pendiente",
+        "isFavorite": "False"
+    },
+    {
+        "id": 7,
+        "name": "Taller de Mantenimiento de Veleros",
+        "description": "Aprende a mantener y reparar tu propio velero.",
+        "date": "2025-05-10",
+        "category": "Taller",
+        "location": "Alicante",
+        "status": "Pendiente",
+        "isFavorite": "False"
+    },
+    {
+        "id": 8,
+        "name": "Seminario de Navegación Astronómica",
+        "description": "Domina la técnica clásica de navegación usando las estrellas.",
+        "date": "2025-05-20",
+        "category": "Seminario",
+        "location": "Barcelona",
+        "status": "Pendiente",
+        "isFavorite": "False"
+    },
+    {
+        "id": 9,
+        "name": "Regata Costa del Sol",
+        "description": "Competición costera en las aguas del Mediterráneo.",
+        "date": "2025-06-05",
+        "category": "Competición",
+        "location": "Marbella, Málaga",
+        "status": "Pendiente",
+        "isFavorite": "False"
+    },
+    {
+        "id": 10,
+        "name": "Encuentro Internacional de Vela Adaptada",
+        "description": "Evento inclusivo para personas con movilidad reducida.",
+        "date": "2025-06-15",
+        "category": "Encuentro",
+        "location": "Bilbao",
+        "status": "Pendiente",
+        "isFavorite": "False"
+    },
+    {
+        "id": 11,
+        "name": "Curso Avanzado de Estrategias de Regata",
+        "description": "Perfecciona tus habilidades tácticas en regatas competitivas.",
+        "date": "2025-07-01",
+        "category": "Curso",
+        "location": "Palma de Mallorca",
+        "status": "Pendiente",
+        "isFavorite": "False"
+    },
+    {
+        "id": 12,
+        "name": "Regata Clásica de Veleros de Época",
+        "description": "Competición y exhibición de veleros clásicos.",
+        "date": "2025-07-20",
+        "category": "Competición",
+        "location": "San Sebastián",
+        "status": "Pendiente",
+        "isFavorite": "False"
+    },
+    {
+        "id": 13,
+        "name": "Festival Náutico Internacional",
+        "description": "Una semana de actividades náuticas para toda la familia.",
+        "date": "2025-08-10",
+        "category": "Festival",
+        "location": "Cartagena, Murcia",
+        "status": "Pendiente",
+        "isFavorite": "False"
     }
+]
 ]
