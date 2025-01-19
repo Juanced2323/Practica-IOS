@@ -118,16 +118,6 @@
         "location": "San Sebastián",
         "status": "Pendiente",
         "isFavorite": false
-    },
-    {
-        "id": 13,
-        "name": "Festival Náutico Internacional",
-        "description": "Una semana de actividades náuticas para toda la familia.",
-        "date": "2025-08-10",
-        "category": "Festival",
-        "location": "Cartagena, Murcia",
-        "status": "Pendiente",
-        "isFavorite": false
     }
 ]
 
